@@ -1,4 +1,7 @@
 # Developer Students Club - Bikaner Technical University
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](images/Logo.png)
 
@@ -91,3 +94,22 @@ $ git push -u origin Folder_Name
 ### 7. Finally, make a PR! :fire:
 Go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/lkbhitesh07"><img src="https://avatars2.githubusercontent.com/u/44300735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hitesh Tomar</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=lkbhitesh07" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
