@@ -103,7 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lkbhitesh07"><img src="https://avatars2.githubusercontent.com/u/44300735?v=4" width="100px;" alt=""/><br /><sub><b>Hitesh Tomar</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=lkbhitesh07" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/lkbhitesh07"><img src="https://avatars2.githubusercontent.com/u/44300735?v=4" width="100px;" alt=""/><br /><sub><b>Hitesh Tomar</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=lkbhitesh07" title="Documentation">📖</a> <a href="#content-lkbhitesh07" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/sanwarkode11"><img src="https://avatars2.githubusercontent.com/u/72201156?v=4" width="100px;" alt=""/><br /><sub><b>Sanwar Lal</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=sanwarkode11" title="Code">💻</a></td>
   </tr>
 </table>
