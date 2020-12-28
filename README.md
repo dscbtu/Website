@@ -1,6 +1,6 @@
 # Developer Students Club - Bikaner Technical University
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](images/Logo.png)
@@ -103,13 +103,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lkbhitesh07"><img src="https://avatars2.githubusercontent.com/u/44300735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hitesh Tomar</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=lkbhitesh07" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/lkbhitesh07"><img src="https://avatars2.githubusercontent.com/u/44300735?v=4" width="100px;" alt=""/><br /><sub><b>Hitesh Tomar</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=lkbhitesh07" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/sanwarkode11"><img src="https://avatars2.githubusercontent.com/u/72201156?v=4" width="100px;" alt=""/><br /><sub><b>Sanwar Lal</b></sub></a><br /><a href="https://github.com/dscbtu/Website/commits?author=sanwarkode11" title="Code">💻</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
